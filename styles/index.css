@@ -1,0 +1,48 @@
+div.container{
+  width: 960px;
+  height: 850px;
+  background-image: url("../images/background.jpeg");
+}
+#car1{
+  position:absolute;
+  top:120px;
+  right: 340px;
+}
+#car2{
+  position:absolute;
+  top:350px;
+  right: 340px;
+}
+#car3{
+  position:absolute;
+  top:295px;
+  right: 1100px;
+}
+#car4{
+  position:absolute;
+  top:605px;
+  right: 340px;
+}
+#car5{
+  position:absolute;
+  top:65px;
+  right: 1100px;
+}
+#car6{
+  position:absolute;
+  top:550px;
+  right: 1100px;
+}
+
+#player{
+  position:absolute;
+  top: 780px;
+  right:830px;
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: grid;
+}
